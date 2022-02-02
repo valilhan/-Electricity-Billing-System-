@@ -1,5 +1,5 @@
-#Electrcity Billing System
-Assignment 1
+# Electricity Billing System
+
 Your team will be given the topic for a project with description, your task is to implement ONE of
 the design patterns:
 ● Factory method
@@ -17,18 +17,20 @@ within the context of the topic.
 
 Your work should contain the followings:
 
-UML class diagram - (weight 35 %)
-Code - (weight 50 %)
-Report - (weight 15 %)
+1. UML class diagram - (weight 35 %)
+2. Code - (weight 50 %)
+3. Report - (weight 15 %)
+
 That is you should first create an UML diagram (preferably in draw.io) for the given problem,
 then you should implement the UML diagram in Java. Also write a report that describes your
 code and UML, and the reason why you chose the particular pattern to implement the feature.
 
 You have to submit a zipped folder which contains two items to moodle:
 
-PDF document which contains UML class diagram (if the diagram is too big, then write
-the url to your draw.io) and report
-The source code (written in JAVA) files in zipped format.
+1. PDF document which contains UML class diagram (if the diagram is too big, then write
+    the url to your draw.io) and report
+2. The source code (written in JAVA) files in zipped format.
+
 You will get 100 if your work meets the following requirement:
 ● For the UML class diagram: the fields / methods are implemented logically according to
 the feature (you don’t have to define a lot of fields/methods, define only those that are
@@ -40,6 +42,8 @@ https://www.uml-diagrams.org/class.html. When thereis a relationship between cla
 you should also indicate it in your class fields/methods (for example, if class A has the
 instance of class B, then indicate class B as a field in the class A).
 
+
+```
 ● When you implement the UML diagram in code, follow OOP principles. And your code
 should be consistent with your UML diagram, say all the methods/fields in your UML
 diagram should also be implemented in your code. Also, show how your classes can be
@@ -50,8 +54,7 @@ code:https://google.github.io/styleguide/javaguide.html
 ● Your report clearly and shortly justifies why you chose the particular pattern and
 describes the job you have done in UML and your code.
 ● Programming language restrictions: you can only use Java in your code.
-
-
+```
 
 The main task of designing software is to automate something with greater efficiency. In our day-to-day lives,
 one of the biggest systems that are in dire need of automation is the billing system for electricity. Till today,
